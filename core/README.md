@@ -2,6 +2,8 @@
 
 BudouX-Dart is a Dart port of [BudouX](https://github.com/google/budoux)
 
+BudouX-Dart は BudouX の Dart 言語へのポートです. 日本語の文章のみためを整えて分割します.
+
 
 ## Install
 ```sh
